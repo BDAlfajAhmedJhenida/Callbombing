@@ -58,7 +58,7 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 * ` git clone https://github.com/BDAlfajAhmedJhenida/Callbombing.git`
 * `cd $HOME`
 * `ls`
-* `cd spamx`
+* `cd Callbombing`
 * `ls`
 * `bash setup.sh`
 * `bash spamx.sh`
